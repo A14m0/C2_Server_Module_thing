@@ -8,8 +8,8 @@
 #include <unistd.h>
 
 int type = 69; //type MODULE
-char *name = "Local resolve";
-int id = 137;
+char *name = "StrangeSecure Server Resolver";
+int id = 420;
 
 extern "C"{
 
